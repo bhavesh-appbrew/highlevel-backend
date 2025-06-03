@@ -6,4 +6,4 @@ import { EmbeddingService } from './embedding.service';
   providers: [DocumentParserService, EmbeddingService],
   exports: [DocumentParserService, EmbeddingService],
 })
-export class DocumentProcessingModule {} 
+export class DocumentProcessingModule {}

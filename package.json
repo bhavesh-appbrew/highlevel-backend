@@ -28,8 +28,10 @@
     "@nestjs/platform-express": "^10.0.0",
     "@pinecone-database/pinecone": "^6.1.0",
     "aws-sdk": "^2.1692.0",
+    "papaparse": "^5.5.3",
     "passport": "^0.7.0",
     "passport-jwt": "^4.0.1",
+    "pdf-parse": "^1.1.1",
     "reflect-metadata": "^0.2.0",
     "rxjs": "^7.8.1"
   },
